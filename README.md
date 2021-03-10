@@ -1,4 +1,4 @@
-# travel_app
+# TRAVEL APP
 
 ## Table of contents
 * [General info](#general-info)
