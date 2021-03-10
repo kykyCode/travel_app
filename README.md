@@ -15,7 +15,7 @@ Project is created with:
 * Firebase
 	
 ## Features: 
-Features of this app include:
+Features of TravelApp:
 * Login / Sign in via Google
 * Login / Sign in with credentials
 * Adding own trips with params / data [location, bydget, date, duration, photos(ImageLoader) etc.]
