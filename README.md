@@ -1,11 +1,9 @@
 # travel_app
 
-
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Features](#features)
 
 ## General info
 A Flutter app that makes traveling easeier by bringing people into specific groups.
@@ -20,9 +18,3 @@ Project is created with:
 Features of this app include:
 * Login / Sign in via Google
 * Login / Sign in with credentials
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
