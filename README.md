@@ -6,7 +6,7 @@ This app is fussion of Flutter and Firebase.
 
 ## Features:
 
-  *Getting into app:
+  *[Getting into app:]
     - Login / Sign in via Google,
     - Login / Sign in with credentials
   
