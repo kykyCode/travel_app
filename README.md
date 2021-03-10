@@ -6,7 +6,7 @@
 * [Features](#features)
 
 ## General info
-A Flutter app that makes traveling easeier by bringing people into specific groups.
+A Flutter app that makes traveling easier by bringing people into specific groups.
 	
 ## Technologies
 Project is created with:
@@ -18,7 +18,7 @@ Project is created with:
 Features of TravelApp:
 * Login / Sign in via Google
 * Login / Sign in with credentials
-* Adding own trips with params / data [location, bydget, date, duration, photos(ImageLoader) etc.]
+* Adding own trips with params / data [location, budget, date, duration, photos (ImageLoader) etc.]
 * Searching by params
 * Each tour has its own realtime chat
 
