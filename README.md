@@ -1,16 +1,24 @@
 # travel_app
 
-A new Flutter project.
+A Flutter app that makes traveling easeier by bringing people into specific groups.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features:
 
-A few resources to get you started if this is your first Flutter project:
+  Getting into app:
+    - Login / Sign in via Google,
+    - Login / Sign in with credentials
+  
+  Adding your own trip with params / data like:
+    - budget,
+    - location,
+    - date,
+    - duration,
+    - photos (firebase photo loader)
+    - description
+  
+  Searching by params makes it easier to find tours.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  Each tour has its own realtime chat.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
