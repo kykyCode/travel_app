@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200429140022",
+    "project_id": "travel-app-kykyk",
+    "storage_bucket": "travel-app-kykyk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200429140022:android:15b6ec60995261002bc097",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200429140022-53e5k1j00bjtngumjbp3ri5kv8dtstoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJ4RD8MnP7aDQN7mVDDRIgQ8ar46uKDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200429140022-53e5k1j00bjtngumjbp3ri5kv8dtstoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
