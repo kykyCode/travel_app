@@ -1,7 +1,6 @@
 # travel_app
 
-A Flutter app that makes traveling easeier by bringing people into specific groups.
-This app is fussion of Flutter and Firebase.
+
 
 ## Table of contents
 * [General info](#general-info)
@@ -9,16 +8,18 @@ This app is fussion of Flutter and Firebase.
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+A Flutter app that makes traveling easeier by bringing people into specific groups.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Dart
+* Flutter
+* Firebase
 	
-## Setup
-To run this project, install it locally using npm:
+## Features: 
+Features of this app include:
+* Login / Sign in via Google
+* Login / Sign in with credentials
 
 ```
 $ cd ../lorem
